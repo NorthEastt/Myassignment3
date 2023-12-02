@@ -1,0 +1,16 @@
+body{
+    .PICTURE img{
+        width: 485px;
+        height: 300px;
+    }
+    .PICTURE1 img{
+        width: 500px;
+        height: 300px;
+    }
+    .LABS h3{
+        text-align: left;
+        margin-left: 18%;
+        color: black;
+    }
+
+}
